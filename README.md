@@ -22,5 +22,3 @@
     <img src="https://img.icons8.com/3d-fluency/188/null/gmail.png" width="48" height="48"/>
   </a>
 </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1108128868272980119)](https://discord.com/users/1108128868272980119)
